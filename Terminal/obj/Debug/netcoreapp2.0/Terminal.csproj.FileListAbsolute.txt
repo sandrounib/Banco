@@ -1,0 +1,12 @@
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.deps.json
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.json
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.dev.json
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.pdb
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Library.dll
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\bin\Debug\netcoreapp2.0\Library.pdb
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.csproj.CoreCompileInputs.cache
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfoInputs.cache
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfo.cs
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\Sandro Reis\Desktop\lib\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.pdb

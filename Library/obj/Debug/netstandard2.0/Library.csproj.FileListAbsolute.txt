@@ -1,0 +1,8 @@
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\bin\Debug\netstandard2.0\Library.deps.json
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\bin\Debug\netstandard2.0\Library.dll
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\bin\Debug\netstandard2.0\Library.pdb
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\obj\Debug\netstandard2.0\Library.dll
+c:\Users\Sandro Reis\Desktop\lib\Banco\Library\obj\Debug\netstandard2.0\Library.pdb
